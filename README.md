@@ -1,4 +1,4 @@
-## Slider Project
+## Basic Slider Project
 
 <sub> </sub>
 
